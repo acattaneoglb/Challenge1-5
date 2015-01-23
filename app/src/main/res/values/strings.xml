@@ -13,12 +13,14 @@
     <string name="go_left">Go left</string>
     <string name="continue_text">Continue</string>
     <string name="go_right">Go right</string>
-    <string name="winning_text">You win!</string>
-    <string name="losing_text">You lose!</string>
+    <string name="winning_title">You win!</string>
+    <string name="losing_title">You lose!</string>
     <string name="title_activity_winning">WinningActivity</string>
     <string name="title_activity_losing">LosingActivity</string>
     <string name="room_description">You have entered a room with two doors. Strange noises come from both.</string>
     <string name="enter_door_1">Enter door 1</string>
     <string name="enter_door_2">Enter door 2</string>
+    <string name="winning_text">You\'ve reached the gold!</string>
+    <string name="losing_text">You\'ve fallen into the pit of despair!</string>
 
 </resources>

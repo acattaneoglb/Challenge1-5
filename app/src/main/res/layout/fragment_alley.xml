@@ -11,4 +11,25 @@
         android:text="@string/alley_description"
         android:id="@+id/textView2"
         android:layout_gravity="center_horizontal|top" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/go_left"
+        android:id="@+id/button_go_left"
+        android:layout_gravity="left|bottom" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/continue_text"
+        android:id="@+id/button_continue"
+        android:layout_gravity="center_horizontal|bottom" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/go_right"
+        android:id="@+id/button_go_right"
+        android:layout_gravity="right|bottom" />
 </FrameLayout>

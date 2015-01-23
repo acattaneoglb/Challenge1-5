@@ -10,5 +10,8 @@
     <string name="title_activity_alley">AlleyActivity</string>
     <string name="title_activity_room">RoomActivity</string>
     <string name="alley_description">You have ventured down a dark alley. You can see a menacing cat looking you with unknown intentions.\nWhere would you like to go next?</string>
+    <string name="go_left">Go left</string>
+    <string name="continue_text">Continue</string>
+    <string name="go_right">Go right</string>
 
 </resources>

@@ -13,5 +13,9 @@
     <string name="go_left">Go left</string>
     <string name="continue_text">Continue</string>
     <string name="go_right">Go right</string>
+    <string name="winning_text">You win!</string>
+    <string name="losing_text">You lose!</string>
+    <string name="title_activity_winning">WinningActivity</string>
+    <string name="title_activity_losing">LosingActivity</string>
 
 </resources>

@@ -24,6 +24,14 @@
             android:name=".RoomActivity"
             android:label="@string/title_activity_room" >
         </activity>
+        <activity
+            android:name=".WinningActivity"
+            android:label="@string/title_activity_winning" >
+        </activity>
+        <activity
+            android:name=".LosingActivity"
+            android:label="@string/title_activity_losing" >
+        </activity>
     </application>
 
 </manifest>

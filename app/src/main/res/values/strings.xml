@@ -17,5 +17,8 @@
     <string name="losing_text">You lose!</string>
     <string name="title_activity_winning">WinningActivity</string>
     <string name="title_activity_losing">LosingActivity</string>
+    <string name="room_description">You have entered a room with two doors. Strange noises come from both.</string>
+    <string name="enter_door_1">Enter door 1</string>
+    <string name="enter_door_2">Enter door 2</string>
 
 </resources>

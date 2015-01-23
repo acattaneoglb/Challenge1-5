@@ -4,4 +4,25 @@
     tools:context="co.mobilemakers.chooseyourownadventure_rredition.RoomFragment">
 
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/room_description"
+        android:id="@+id/textView5"
+        android:layout_gravity="center_horizontal|top" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enter_door_1"
+        android:id="@+id/button_door_1"
+        android:layout_gravity="left|bottom" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enter_door_2"
+        android:id="@+id/button_door_2"
+        android:layout_gravity="right|bottom" />
 </FrameLayout>
